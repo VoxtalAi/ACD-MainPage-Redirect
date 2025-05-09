@@ -1,7 +1,5 @@
-// Login Redirect plugins
-// Author by Almond Technology LLC.
-// Version 1.0
-// Update time : 2024/08/07
+// Cloudreve V3 Index page
+// Author by VoxtalAi
 
 // 获取当前页面的路径
 // 方式一 - 跳转主页
